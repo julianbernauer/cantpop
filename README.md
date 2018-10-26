@@ -3,4 +3,4 @@ Replication code for the manuscript "Supply and Demand of Populism:A Quantitativ
 
 The paper estimates the level of populism from cantonal manifestos of the Swiss SVP using a dictionary approach and Wordfish. 
 
-Data available on request. 
+Manifesto data available on request. Selects survey data from FORS, https://forsbase.unil.ch/datasets/dataset-public-detail/15433/1328/.
